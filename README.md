@@ -1,2 +1,2 @@
 # HacktoberFest
-This is a demo repositary created for hacktoberfest.
+This is a demo repositary created for hacktoberfest by Soumil Gupta.
